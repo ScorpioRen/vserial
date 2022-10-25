@@ -29,7 +29,7 @@ Example usage:
   package main
 
   import (
-        "github.com/ScorpioRen/serial"
+        "github.com/ScorpioRen/vserial"
         "log"
   )
 
@@ -53,7 +53,7 @@ Example usage:
         log.Print("%q", buf[:n])
   }
 */
-package serial
+package vserial
 
 import (
 	"errors"

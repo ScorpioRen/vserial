@@ -1,6 +1,18 @@
+//go:build linux
 // +build linux
 
-package serial
+/*
+ * @Author: Viron
+ * @Date: 2022-10-26 00:11:31
+ * @LastEditors: Viron
+ * @LastEditTime: 2022-10-26 00:18:46
+ * @FilePath: /vserial/basic_test.go
+ * @Description:
+ * viron@foxmail.com
+ * Copyright (c) 2022 by Viron, All Rights Reserved.
+ */
+
+package vserial
 
 import (
 	"os"

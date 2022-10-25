@@ -2,14 +2,14 @@
  * @Author: Viron
  * @Date: 2022-10-25 23:07:08
  * @LastEditors: Viron
- * @LastEditTime: 2022-10-25 23:52:21
- * @FilePath: /serial/README.md
+ * @LastEditTime: 2022-10-26 00:20:52
+ * @FilePath: /vserial/README.md
  * @Description: 
  * viron@foxmail.com
  * Copyright (c) 2022 by Viron, All Rights Reserved.
 -->
-[![GoDoc](https://godoc.org/github.com/ScorpioRen/serial?status.svg)](http://godoc.org/github.com/ScorpioRen/serial)
-[![Build Status](https://travis-ci.org/ScorpioRen/serial.svg?branch=master)](https://travis-ci.org/ScorpioRen/serial)
+[![GoDoc](https://godoc.org/github.com/ScorpioRen/vserial?status.svg)](http://godoc.org/github.com/ScorpioRen/vserial)
+[![Build Status](https://travis-ci.org/ScorpioRen/vserial.svg?branch=master)](https://travis-ci.org/ScorpioRen/vserial)
 
 Serial
 ========
