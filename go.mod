@@ -1,4 +1,4 @@
-module vserial
+module github.com/ScorpioRen/vserial
 
 go 1.18
 
