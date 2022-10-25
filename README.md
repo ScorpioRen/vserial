@@ -1,5 +1,15 @@
-[![GoDoc](https://godoc.org/github.com/tarm/serial?status.svg)](http://godoc.org/github.com/tarm/serial)
-[![Build Status](https://travis-ci.org/tarm/serial.svg?branch=master)](https://travis-ci.org/tarm/serial)
+<!--
+ * @Author: Viron
+ * @Date: 2022-10-25 23:07:08
+ * @LastEditors: Viron
+ * @LastEditTime: 2022-10-25 23:34:10
+ * @FilePath: /serial/README.md
+ * @Description: 
+ * viron@foxmail.com
+ * Copyright (c) 2022 by Viron, All Rights Reserved.
+-->
+[![GoDoc](https://godoc.org/github.com/ScorpioRen/serial?status.svg)](http://godoc.org/github.com/ScorpioRen/serial)
+[![Build Status](https://travis-ci.org/ScorpioRen/serial.svg?branch=master)](https://travis-ci.org/ScorpioRen/serial)
 
 Serial
 ========
@@ -13,7 +23,7 @@ an added bonus, the windows package does not use cgo, so you can cross
 compile for windows from another platform.
 
 You can cross compile with
-   GOOS=windows GOARCH=386 go install github.com/tarm/serial
+   GOOS=windows GOARCH=386 go install github.com/ScorpioRen/serial
 
 Currently there is very little in the way of configurability.  You can
 set the baud rate.  Then you can Read(), Write(), or Close() the
@@ -36,7 +46,7 @@ package main
 import (
         "log"
 
-        "github.com/tarm/serial"
+        "github.com/ScorpioRen/serial"
 )
 
 func main() {
