@@ -2,7 +2,7 @@
  * @Author: Viron
  * @Date: 2022-10-25 23:07:08
  * @LastEditors: Viron
- * @LastEditTime: 2022-10-25 23:34:10
+ * @LastEditTime: 2022-10-25 23:52:21
  * @FilePath: /serial/README.md
  * @Description: 
  * viron@foxmail.com
@@ -46,7 +46,7 @@ package main
 import (
         "log"
 
-        "github.com/ScorpioRen/serial"
+        serial "github.com/ScorpioRen/vserial"
 )
 
 func main() {
